@@ -1,6 +1,12 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "id": "asd122e12e12e21e12123",
+        "title": "Test Title",
+        "text": "Test text"
+    },
+    {
+        "id": "1231231231231asdasd",
+        "title": "New Title",
+        "text": "New Note"
     }
 ]

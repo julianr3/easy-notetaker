@@ -1,7 +1,7 @@
 # easy-notetaker
 
 
-# <dreamteam-builder>
+# <easy-notetaker>
 
 https://github.com/julianr3/easy-notetaker
 
@@ -24,7 +24,7 @@ no installation required.
 open html file.
 
 
-![Image of website](./src/dreamteam-builder.jpg)
+![Image of website](./public/assets/img/note-taker.jpg)
 
 ## Credits
 
