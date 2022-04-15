@@ -31,7 +31,7 @@ app.post('/api/notes', (req, res) => {
     })
 })
 
-app.listen(3001, () => {
+app.listen(PORT, () => {
     console.log("Server has started at PORT 3001.")
 })
 
