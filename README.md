@@ -1,5 +1,6 @@
 # easy-notetaker
 
+https://sleepy-dawn-85394.herokuapp.com/
 
 # <easy-notetaker>
 
@@ -17,11 +18,11 @@ Great application for keeping track of notes and saving that information for fut
 - [License](#license)
 
 ## Installation
-no installation required.
+open vscode, open the terminal and npm install express. 
 
 
 ## Usage
-open html file.
+open https://sleepy-dawn-85394.herokuapp.com/ and start taking notes. you are able to input a customized title as well as a enter any information needed. The information will be stored for easy future reference.
 
 
 ![Image of website](./public/assets/img/note-taker.jpg)
